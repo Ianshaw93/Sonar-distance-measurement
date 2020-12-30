@@ -1,7 +1,7 @@
 # SonarRangeFinder
 Utilising the Arduino Uno and sonar sensor to give measurement in realtime to the LCD display.
 
-This included converting time for the ultrasonic pulse to echo back to sensor (travelling at the speed of sound), to distance to target.
+The distance to target was calculated by the time for the ultrasonic pulse to echo back to the sensor multiplied by the speed of sound all divided by two.
 
 # What I Learned
 
